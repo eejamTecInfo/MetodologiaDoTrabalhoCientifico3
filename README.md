@@ -2,7 +2,7 @@
 
 # Metodologia do Trabalho Cientifico III
 
-Materiais de aulas do professor Berg Dantas.
+Materiais de aula do professor Berg Dantas.
 
 ## Cronograma do primeiro bimestre
 <table border="1">
@@ -51,11 +51,3 @@ Materiais de aulas do professor Berg Dantas.
         <td>Apresentações.</td>
     </tr>
 </table>
-
-
-
-
-
-
-
-
